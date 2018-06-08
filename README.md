@@ -31,7 +31,7 @@ The explosion of a bomb has a pattern. Try many times to clear
 <br>
 
 <h3>Clear All</h3>
-<img src= "https://user-images.githubusercontent.com/37579650/41140522-f90c564e-6b28-11e8-8846-041ca5e447f3.png
+<img src= "https://user-images.githubusercontent.com/37579650/41140522-f90c564e-6b28-11e8-8846-041ca5e447f3.png",width=500, height=300>
 <br>
 
 <h3>Ending</h3>
