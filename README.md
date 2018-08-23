@@ -1,7 +1,7 @@
 <h1>Greedy Gayce_Unity</h1>
-Pattern running game, go to destination avoidng bombs<br>
+Pattern running game, go to destination avoidng bombs
 The explosion of a bomb has a pattern. Try many times to clear
-<h5>* this game have 6Chapters</h5><br>
+<h5>* this game have 6Chapters</h5>
 <h3>Main Scene</h3>
 <img src= "https://user-images.githubusercontent.com/37579650/41140529-fa3bf4e8-6b28-11e8-9268-e4f9bdc7e082.png", width=500, height=300>
 <br>
